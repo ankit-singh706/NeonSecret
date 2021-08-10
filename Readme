@@ -1,1 +1,13 @@
+------------------------------------------------------------NeonSecret-------------------------------------------------------
 
+NeonSecret is a e-commerce based website which provides a better and convenient way to explore a wide range of stationary products at a better price which most of the e-commerce websites fail to provide. An easy exploration through the world of basics which is a need to every person in his life directly/indirectly. NeonSecret helps you to fulfill your requirement of stationery by providing easy access through the website with better surfing and easy purchase mechanics. The purchase mechanics, holding the customer details with the products chosen by him/her. Have your stationary in your hand with an effortless and great experience with our website NeonSecret.
+
+The following archive contains----
+Frontend(HTML,CSS,JS) for the UI of our website.
+Backend(PHP, Apache Server) for making the webpages interact dynamically.
+Database(MySQL) for storing user information and the transaction history related to order for individual users.
+
+Note-----
+->MySQL command line is used for the database handling and updation.
+->Apache Server for backend PHP interaction.
+->XAMPP control panel must be present to run the project.
