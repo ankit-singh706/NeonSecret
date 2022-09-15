@@ -1,0 +1,38 @@
+.container-fluid{
+    padding: 3% 15% 3%;
+  
+  }
+  
+  .footer{
+    padding: 1% 5% 0 5% ;
+    text-align: center;
+    background-color: #171717;
+    color: #fff;
+    font-size: 1.15rem;
+  }
+  
+  .no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 5% 5%;
+    text-align: center;
+  }
+  
+  .email{
+    padding: 0 5%;
+    text-align: center;
+  }
+  
+  .icon{
+    margin: 8px;
+  }
+
+  .sign{
+      padding: 7% 15%;
+      font-size: 1.15rem;
+      
+  }
+  
+  .nav-link{
+    color:#fcba03;
+  }
